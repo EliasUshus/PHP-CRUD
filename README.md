@@ -15,3 +15,5 @@ Jeg vil lave en CRUD. Jeg vil have en liste over alle brugere i databasen, deres
 ![image](https://user-images.githubusercontent.com/111356529/211289937-4916a9fd-0849-446e-8a20-18558353dfaf.png)
 
 ![image](https://user-images.githubusercontent.com/111356529/211290036-5c8c0526-7379-43da-adae-41d02585c2c0.png)
+
+![image](https://user-images.githubusercontent.com/111356529/211290130-d445170e-eb08-446e-8122-56c2ef255da4.png)
