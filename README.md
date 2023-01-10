@@ -12,7 +12,7 @@ Jeg vil lave en CRUD. Jeg vil have en liste over alle brugere i databasen, deres
 -	CSS
 
 
-# CRUD
+# CRUD Bilag
 - Create
 ![image](https://user-images.githubusercontent.com/111356529/211290036-5c8c0526-7379-43da-adae-41d02585c2c0.png)
 - Read
