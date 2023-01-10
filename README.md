@@ -5,12 +5,6 @@ Opgaven består af at jeg skal lave en CRUD ved hjælp af PHP. Jeg vil linke den
 # Problemformulering
 Jeg vil lave en CRUD. Jeg vil have en liste over alle brugere i databasen, deres ID, navn, email, mobil nummer og kodeord. Jeg vil også lave et sted til at tilføje, fjerne og redigere brugere. Til design vil jeg bruge bootstrap 
 
-# CRUD
-- Create
-- Read
-- Update
-- Delete
-
 # Teknikker
 -	PHP
 -	MySQL
@@ -18,8 +12,11 @@ Jeg vil lave en CRUD. Jeg vil have en liste over alle brugere i databasen, deres
 -	CSS
 
 
-![image](https://user-images.githubusercontent.com/111356529/211289937-4916a9fd-0849-446e-8a20-18558353dfaf.png)
-
+# CRUD
+- Create
 ![image](https://user-images.githubusercontent.com/111356529/211290036-5c8c0526-7379-43da-adae-41d02585c2c0.png)
-
+- Read
+![image](https://user-images.githubusercontent.com/111356529/211289937-4916a9fd-0849-446e-8a20-18558353dfaf.png)
+- Update
 ![image](https://user-images.githubusercontent.com/111356529/211290130-d445170e-eb08-446e-8122-56c2ef255da4.png)
+- Delete
